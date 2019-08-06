@@ -1,0 +1,27 @@
+h1 {
+  position: relative;
+  top: 50px;
+  font-size: 50px;
+  color: #B898E0;
+}
+
+body {
+  background-color: black;
+}
+
+.login-form {
+  background-color: solid pink;
+}
+
+h2 {
+  font-size: 28px;
+  color: #B898E0;
+}
+#register-form {
+  position: relative;
+  top: 100px;
+}
+#login-form {
+  position: relative;
+  top: 100px;
+}
